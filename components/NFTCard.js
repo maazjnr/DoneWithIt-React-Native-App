@@ -5,7 +5,6 @@ import { CircleButton, RectButton } from './Button';
 import { SubInfo, NFTTitle, EthPrice } from './SubInfo';
 
 
-
 const NFTCard = ({data}) => {
 
   const navigation = useNavigation();
