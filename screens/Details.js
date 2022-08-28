@@ -27,7 +27,7 @@ const DetailsHeader = ({ data, navigation }) => (
 
     <CircleButton
       imgUrl={assets.left}
-      handlePress={() => navigation.goBack()}
+      HandlePress={() => navigation.goBack()}
       left={15}
       top={StatusBar.currentHeight + 10}
     />
